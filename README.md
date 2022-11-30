@@ -1,7 +1,7 @@
 <h1>Hi there👋, I'm Bilal Mushtaq Abbasi</h1>
 <h3><i>A passionate frontend developer from Pakistan</i></h3>
 
-A self-taught **Front End UI Developer** having almost 1+ years of experience who works with dedication, currently part of an **Software Firm**, developing production-scale functional and intuitive web applications in microservices & micro frontend environments, primarily focus on writing clean, elegant and efficient code, building **Mobile friendly & responsive Web Apps & Websites'** UI based on web markup including **HTML(5), CSS(3), Bootstrap (v4, v5), Tailwind CSS, jQuery, PSD/Xd/Figma** to **HTML conversion**, and have a blend of experience of **CSS pre-processing** platforms, such as **SASS/SCSS**. Also have hands on with project **management tools** i.e **Github, GitLab**, and got the opportunity to have knowledge of **frameworks** like **React (MUI, Redux )**.
+A **Front End UI Developer** having almost 1+ years of experience who works with dedication, currently part of an **Software Firm**, developing production-scale functional and intuitive web applications in microservices & micro frontend environments, primarily focus on writing clean, elegant and efficient code, building **Mobile friendly & responsive Web Apps & Websites'** UI.
 <br />
 <br />
 
