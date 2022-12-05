@@ -8,7 +8,7 @@ A **Front End UI Developer** having almost 1+ years of experience who works with
 
 - 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **React, Next, Node.js.**
+- 🌱 I’m currently learning **React & Next.**
 
 - 💬 Ask me about **JavaScript.**
 
